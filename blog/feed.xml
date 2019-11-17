@@ -1,57 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Test Site Blog</title>
+        <title>Krishankant Ray Blog</title>
         <link>krishankantray.github.io/web/blog</link>
-        <description>The best place to stay up-to-date with the latest Test Site news and events.</description>
+        <description>The best place to stay up-to-date with the latest Krishankant Ray news and events.</description>
         <lastBuildDate>Mon, 18 Nov 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>Test Site Blog</title>
+            <title>Krishankant Ray Blog</title>
             <url>krishankantray.github.io/web/img/favicon.ico</url>
             <link>krishankantray.github.io/web/blog</link>
         </image>
-        <copyright>Copyright © 2019 Your Name or Your Company Name</copyright>
+        <copyright>Copyright © 2019 Krishankant Ray</copyright>
         <item>
             <title><![CDATA[Longest Common Prefix]]></title>
             <link>krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html</link>
             <guid>krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html</guid>
             <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p><a href="https://leetcode.com/problems/longest-common-prefix/">Problem Link</a></p>
+            <description><![CDATA[<p>Problem Link :  <a href="https://leetcode.com/problems/longest-common-prefix/">https://leetcode.com/problems/longest-common-prefix/</a></p>
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[My Blog site changed]]></title>
-            <link>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</link>
-            <guid>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</guid>
+            <title><![CDATA[Range Sum of BST]]></title>
+            <link>krishankantray.github.io/web/blog/2019/11/18/Range-Sum-of-BST.html</link>
+            <guid>krishankantray.github.io/web/blog/2019/11/18/Range-Sum-of-BST.html</guid>
             <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>I will continue writing blogs here itself.
-The blogger blog will exist but most recent content will be here only.</p>
-<p>So, hoping that I will write this blog on regular basis.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Table Testing]]></title>
-            <link>krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html</guid>
-            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Colons can be used to align columns.</p> <table> <thead> <tr><th>Tables</th><th style="text-align:center">Are</th><th style="text-align:right">Cool</th></tr> </thead> <tbody> <tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1600</td></tr> <tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr> <tr><td>zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:right">$1</td></tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make ...</p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adding RSS Support]]></title>
-            <link>krishankantray.github.io/web/blog/2017/09/26/adding-rss.html</link>
-            <guid>krishankantray.github.io/web/blog/2017/09/26/adding-rss.html</guid>
-            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-            <link>krishankantray.github.io/web/blog/2017/09/25/testing-rss.html</link>
-            <guid>krishankantray.github.io/web/blog/2017/09/25/testing-rss.html</guid>
-            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
+            <description><![CDATA[<p>Problem Link :  <a href="https://leetcode.com/problems/range-sum-of-bst/">https://leetcode.com/problems/range-sum-of-bst/</a></p>
 ]]></description>
         </item>
     </channel>

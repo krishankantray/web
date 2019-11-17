@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>krishankantray.github.io/web/blog</id>
-    <title>Test Site Blog</title>
+    <title>Krishankant Ray Blog</title>
     <updated>2019-11-18T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="krishankantray.github.io/web/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Test Site news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest Krishankant Ray news and events.</subtitle>
     <logo>krishankantray.github.io/web/img/favicon.ico</logo>
-    <rights>Copyright © 2019 Your Name or Your Company Name</rights>
+    <rights>Copyright © 2019 Krishankant Ray</rights>
     <entry>
         <title type="html"><![CDATA[Longest Common Prefix]]></title>
         <id>krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html</id>
         <link href="krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html">
         </link>
         <updated>2019-11-18T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://leetcode.com/problems/longest-common-prefix/">Problem Link</a></p>
+        <summary type="html"><![CDATA[<p>Problem Link :  <a href="https://leetcode.com/problems/longest-common-prefix/">https://leetcode.com/problems/longest-common-prefix/</a></p>
 ]]></summary>
         <author>
             <name>Krishankant Ray</name>
@@ -22,56 +22,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Blog site changed]]></title>
-        <id>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</id>
-        <link href="krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html">
+        <title type="html"><![CDATA[Range Sum of BST]]></title>
+        <id>krishankantray.github.io/web/blog/2019/11/18/Range-Sum-of-BST.html</id>
+        <link href="krishankantray.github.io/web/blog/2019/11/18/Range-Sum-of-BST.html">
         </link>
         <updated>2019-11-18T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I will continue writing blogs here itself.
-The blogger blog will exist but most recent content will be here only.</p>
-<p>So, hoping that I will write this blog on regular basis.</p>
+        <summary type="html"><![CDATA[<p>Problem Link :  <a href="https://leetcode.com/problems/range-sum-of-bst/">https://leetcode.com/problems/range-sum-of-bst/</a></p>
 ]]></summary>
         <author>
             <name>Krishankant Ray</name>
             <uri>http://twitter.com/krishankantray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Table Testing]]></title>
-        <id>krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html">
-        </link>
-        <updated>2017-10-24T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Colons can be used to align columns.</p> <table> <thead> <tr><th>Tables</th><th style="text-align:center">Are</th><th style="text-align:right">Cool</th></tr> </thead> <tbody> <tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1600</td></tr> <tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr> <tr><td>zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:right">$1</td></tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make ...</p>]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>krishankantray.github.io/web/blog/2017/09/26/adding-rss.html</id>
-        <link href="krishankantray.github.io/web/blog/2017/09/26/adding-rss.html">
-        </link>
-        <updated>2017-09-26T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>krishankantray.github.io/web/blog/2017/09/25/testing-rss.html</id>
-        <link href="krishankantray.github.io/web/blog/2017/09/25/testing-rss.html">
-        </link>
-        <updated>2017-09-25T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
         </author>
     </entry>
 </feed>
