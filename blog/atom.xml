@@ -9,13 +9,12 @@
     <logo>krishankantray.github.io/web/img/favicon.ico</logo>
     <rights>Copyright © 2019 Your Name or Your Company Name</rights>
     <entry>
-        <title type="html"><![CDATA[My Blog site changed]]></title>
-        <id>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</id>
-        <link href="krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html">
+        <title type="html"><![CDATA[Longest Common Prefix]]></title>
+        <id>krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html</id>
+        <link href="krishankantray.github.io/web/blog/2019/11/18/longest-common-prefix.html">
         </link>
         <updated>2019-11-18T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I will continue writing blogs here itself.
-The blogger blog will exist but most recent content will be here only.</p>
+        <summary type="html"><![CDATA[<p><a href="https://leetcode.com/problems/longest-common-prefix/">Problem Link</a></p>
 ]]></summary>
         <author>
             <name>Krishankant Ray</name>
@@ -23,12 +22,27 @@ The blogger blog will exist but most recent content will be here only.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
+        <title type="html"><![CDATA[My Blog site changed]]></title>
+        <id>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</id>
+        <link href="krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html">
+        </link>
+        <updated>2019-11-18T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>I will continue writing blogs here itself.
+The blogger blog will exist but most recent content will be here only.</p>
+<p>So, hoping that I will write this blog on regular basis.</p>
+]]></summary>
+        <author>
+            <name>Krishankant Ray</name>
+            <uri>http://twitter.com/krishankantray</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Table Testing]]></title>
         <id>krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html</id>
         <link href="krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <summary type="html"><![CDATA[<p>Colons can be used to align columns.</p> <table> <thead> <tr><th>Tables</th><th style="text-align:center">Are</th><th style="text-align:right">Cool</th></tr> </thead> <tbody> <tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1600</td></tr> <tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr> <tr><td>zebra stripes</td><td style="text-align:center">are neat</td><td style="text-align:right">$1</td></tr> </tbody> </table> <p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make ...</p>]]></summary>
         <author>
             <name>Eric Nakagawa</name>
             <uri>http://twitter.com/ericnakagawa</uri>
@@ -58,19 +72,6 @@ The blogger blog will exist but most recent content will be here only.</p>
         <author>
             <name>Eric Nakagawa</name>
             <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>krishankantray.github.io/web/blog/2017/04/10/blog-post-two.html</id>
-        <link href="krishankantray.github.io/web/blog/2017/04/10/blog-post-two.html">
-        </link>
-        <updated>2017-04-10T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Hello</p>
-]]></summary>
-        <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
         </author>
     </entry>
 </feed>
