@@ -4,7 +4,7 @@
         <title>Test Site Blog</title>
         <link>krishankantray.github.io/web/blog</link>
         <description>The best place to stay up-to-date with the latest Test Site news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,15 @@
             <link>krishankantray.github.io/web/blog</link>
         </image>
         <copyright>Copyright © 2019 Your Name or Your Company Name</copyright>
+        <item>
+            <title><![CDATA[My Blog site changed]]></title>
+            <link>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</link>
+            <guid>krishankantray.github.io/web/blog/2019/11/18/first-blog-post.html</guid>
+            <pubDate>Mon, 18 Nov 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I will continue writing blogs here itself.
+The blogger blog will exist but most recent content will be here only.</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
             <link>krishankantray.github.io/web/blog/2017/10/24/new-version-1.0.0.html</link>
@@ -41,14 +50,6 @@
             <link>krishankantray.github.io/web/blog/2017/04/10/blog-post-two.html</link>
             <guid>krishankantray.github.io/web/blog/2017/04/10/blog-post-two.html</guid>
             <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blog Title]]></title>
-            <link>krishankantray.github.io/web/blog/2016/03/11/blog-post.html</link>
-            <guid>krishankantray.github.io/web/blog/2016/03/11/blog-post.html</guid>
-            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></description>
         </item>
